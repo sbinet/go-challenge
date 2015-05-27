@@ -12,8 +12,14 @@ Solution for the
 ## Challenge-2
 
 Solution for the
-[challenge-1](http://golang-challenge.com/go-challenge2/) is under
+[challenge-2](http://golang-challenge.com/go-challenge2/) is under
 [cha2](https://github.com/sbinet/go-challenge/tree/master/cha2).
+
+## Challenge-4
+
+Solution for the
+[challenge-4](http://golang-challenge.com/go-challenge4/) is under
+[cha4](https://github.com/sbinet/go-challenge/tree/master/cha4).
 
 ## SSTIC-2015
 
